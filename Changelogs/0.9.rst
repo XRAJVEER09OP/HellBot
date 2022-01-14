@@ -9,7 +9,7 @@ HellBot Version Update
 Changelog 📃 :
 ~~~~~~~~~~~~~~
 * Fixed crash while deploying in railway.app
-* Blacklisted @HellBot_Chat from ``Gcast``.
+* Blacklisted @zod_chats from ``Gcast``.
 * Updated ``.mute``. Now you can mute admins of a group if you are also an admin with delete message permission.
 * Some changes in inviteall.
 * Updated ``AFK``. Now you can enable AFK Mode without mentioning reason. Simply do ``.afk`` to activate AFK Mode.
