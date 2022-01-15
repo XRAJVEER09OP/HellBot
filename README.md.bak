@@ -1,13 +1,13 @@
 <h1 align="center">
-  <b>ɓεɾℓเɳ µรεɾɓσƭ 🇮🇳</b>
+  <b>†hê Hêllẞø† 🇮🇳</b>
 </h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/078df46ef8b32f89aef40.jpg" alt="ɓεɾℓเɳ µรεɾɓσƭ">
+  <img src="https://telegra.ph/file/078df46ef8b32f89aef40.jpg" alt="The-HellBot">
 </p>
 
 <h6 align="center">
-  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ ɓεɾℓเɳ ⚡</b>
+  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ ɦɛʟʟɮօt ⚡</b>
 </h6>
 
 <h3 align="center">
@@ -15,19 +15,19 @@
 </h3>
 
 ------
-[![GitHub forks](https://img.shields.io/github/forks/XRAJVEER09OP/Berlinuserbot?&style=flat-square&logo=github)](https://github.com/XRAJVEER09OP/Berlinuserbot/fork)
-[![GitHub stars](https://img.shields.io/github/stars/XRAJVEER09OP/Berlinuserbot?&style=flat-square&logo=github)](https://github.com/XRAJVEER09OP/Berlinuserbot/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/The-HellBot/HellBot?&style=flat-square&logo=github)](https://github.com/The-HellBot/HellBot/fork)
+[![GitHub stars](https://img.shields.io/github/stars/The-HellBot/HellBot?&style=flat-square&logo=github)](https://github.com/The-HellBot/HellBot/stargazers)
 ![Repo Size](https://img.shields.io/github/repo-size/The-HellBot/HellBot?&style=flat-square&logo=github)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)
-[![GitHub license](https://img.shields.io/github/license/XRAJVEER09OP/Berlinuserbot?&style=flat-square&logo=github)](https://github.com/XRAJVEER09OP/Berlinuserbot/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/The-HellBot/HellBot?&style=flat-square&logo=github)](https://github.com/The-HellBot/HellBot/blob/master/LICENSE)
 [![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
 ![Branch](https://img.shields.io/badge/Branch-Master-orange)
 ![GitHub language count](https://img.shields.io/github/languages/count/The-HellBot/HellBot?color=Pink&label=Language&style=flat-square)
 
 ------
 ## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/BERLINGODSPAM)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/BERLISPAM)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/hellbot_chat)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/its_hellbot)
 
 ------
 ## Deploy 🚀
@@ -56,14 +56,14 @@
 - Every mandatory variables are listed [Here](#Variables).
 - Please note that YoutubeDL won't work on railway deploys.
 - You won't be able to update your bot. To update you'll have to deploy again. I'll find a method to update through railway soon.
-- Due to railway's privacy policy I removed railway button from repo. But you can get deploy link in our [@BERLINGODSPAM](https://t.me/BERLINGODSPAM). Type `#railway` to get deploy link.
+- Due to railway's privacy policy I removed railway button from repo. But you can get deploy link in our [@HellBot_Chat](https://t.me/hellbot_chat). Type `#railway` to get deploy link.
 
 ------
 ## Deploy Locally
 
 - Clone the repo. 
 
-`git clone https://github.com/XRAJVEER09OP/Plugins.git`
+`git clone https://github.com/The-HellBot/Plugins.git`
 - Open Cloned Folder.
 
 `cd Plugins`
@@ -75,11 +75,11 @@
 - Install Requirements.
 
 `pip install -U -r requirements.txt`
-- Generate ɓεɾℓเɳ µรεɾɓσƭ SESSION.
+- Generate HELLBOT SESSION.
 
 `python hell_string.py`
 - Create config.py or rename ex_config.py to config.py. Fill All The Required Variables.
-- Finally Start ɓεɾℓเɳ µรεɾɓσƭ By
+- Finally Start Hêllẞø† By
 
 `bash start.sh`
 
@@ -135,9 +135,9 @@
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-<h4 align="center">Copyright (C) 2021 <a href="https://github.com/XRAJVEER09OP>XRAJVEER09OP</a></h4>
+<h4 align="center">Copyright (C) 2021 <a href="https://github.com/The-HellBot">The-HellBot</a></h4>
 
-Project [BERLINUSERBOT](https://github.com/XRAJVEER09OP/Berlinuserbot) is free software: you can redistribute it and/or modify
+Project [HellBot](https://github.com/The-HellBot/HellBot) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
